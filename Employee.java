@@ -21,6 +21,12 @@ public class Employee{
 	public static void main(String[] args){
 		Employee t = new Employee("Bindhu");
 		System.out.println(t.name);
+
+output:
+No Args
+0 0
+Bindhu
+
 		
 		
 	}
